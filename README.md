@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development, with a focus on transitioning into the tech industry.
 - 🌱 I’m currently learning Lazarus and Delphi, while enhancing my skills in Python and Java.
 - 💞️ I’m looking to collaborate on software development projects, especially in areas where I can apply my knowledge of backend development and system automation.
-- 📫 How to reach me: viniciuscamacho12@gmail.com or [LinkedIn](https://www.linkedin.com/in/viniciuscamacho230/) .
+- 📫 How to reach me: viniciuscamacho12@gmail.com or [LinkedIn](https://www.linkedin.com/in/vinicius-camacho)
 - ⚡ Fun fact: I started my career in administrative roles, but I discovered my passion for technology and coding through self-study and hands-on learning!
 
 <!---
