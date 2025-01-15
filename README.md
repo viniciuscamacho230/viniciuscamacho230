@@ -8,9 +8,21 @@ Sou um desenvolvedor em transição para a indústria de tecnologia, com um foco
 
 ## Tecnologias e Ferramentas
 
-- **Atualmente Aprendendo**: React, além de aprofundar conhecimentos em JavaScript e TypeScript
-- **Linguagens de Programação**: Python, Java
-- **Ferramentas**: Lazarus, Delphi
+- **Atualmente Aprendendo**: React e React Native, aprofundando conhecimentos em JavaScript e TypeScript, **MongoDB em Nuvem**
+- **Linguagens e Frameworks**: 
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- **Bancos de Dados**:
+  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+  - ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) (Banco NoSQL)
+- **Ferramentas**: 
+  - ![Lazarus](https://img.shields.io/badge/-Lazarus-002060?logo=lazarus&logoColor=white)
+  - ![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white)
 
 ## O que estou Procurando
 
@@ -24,7 +36,3 @@ Estou interessado em colaborar em projetos de desenvolvimento de software, espec
 ## Curiosidades
 
 - ⚡ *Fato Curioso*: Iniciei minha carreira em funções administrativas, mas me apaixonei por tecnologia e codificação através do aprendizado autodidata!
-<!---
-viniciuscamacho230/viniciuscamacho230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
