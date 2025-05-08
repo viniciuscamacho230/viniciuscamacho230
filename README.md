@@ -1,14 +1,21 @@
 # 👋 Olá, eu sou Vinicius Camacho
 
-> *Apaixonado por transformar desafios em soluções através da tecnologia.*
+> *Transformando desafios em soluções por meio da tecnologia.*
 
-## Sobre Mim
+## 💼 Sobre Mim
 
-Sou um desenvolvedor em transição para a indústria de tecnologia, com um foco especial em desenvolvimento de software. Comecei minha carreira em funções administrativas, mas descobri minha verdadeira paixão por tecnologia e codificação através do aprendizado autodidata e prático. Atualmente, estou imerso no aprendizado de **React** e aprimorando continuamente minhas habilidades em **JavaScript** e **TypeScript**.
+Sou um desenvolvedor em transição para a área de tecnologia, com forte foco em desenvolvimento de software. Iniciei minha trajetória profissional em funções administrativas, onde desenvolvi habilidades analíticas e organizacionais. Ao longo do tempo, descobri minha verdadeira vocação na tecnologia, e desde então venho me dedicando ao aprendizado prático e contínuo.  
 
-## Tecnologias e Ferramentas
+Atualmente, estou focado no desenvolvimento com **React**, aprofundando meus conhecimentos em **JavaScript**, **TypeScript** e explorando tecnologias como **MongoDB Cloud**, **Power BI** e **Power Apps**, voltadas para análise de dados e automação de processos.
 
-- **Atualmente Aprendendo**: React e React Native, aprofundando conhecimentos em JavaScript e TypeScript, **MongoDB em Nuvem**
+## 🛠️ Tecnologias e Ferramentas
+
+- **Aprendizado Atual**:
+  - React, React Native  
+  - JavaScript e TypeScript (avançando em conceitos e práticas modernas)  
+  - MongoDB (ambiente cloud)  
+  - Power BI e Power Apps (ecossistema Microsoft)
+   
 - **Linguagens e Frameworks**: 
   - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
   - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
@@ -21,18 +28,21 @@ Sou um desenvolvedor em transição para a indústria de tecnologia, com um foco
   - ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) (Banco NoSQL)
 - **Ferramentas**: 
-  - ![Lazarus](https://img.shields.io/badge/-Lazarus-002060?logo=lazarus&logoColor=white)
-  - ![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white)
+  - ![Lazarus](https://img.shields.io/badge/-Lazarus-002060?logo=lazarus&logoColor=white)  
+  - ![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white)  
+  - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)  
+  - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
+  - ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)
 
-## O que estou Procurando
+## 🚀 Objetivo Profissional
 
-Estou interessado em colaborar em projetos de desenvolvimento de software, especialmente aqueles focados em **React** e linguagens como **JavaScript** e **TypeScript**, onde posso aplicar e expandir meu conhecimento em desenvolvimento frontend e backend.
+Busco oportunidades para atuar em projetos de desenvolvimento frontend e backend, especialmente com **React**, **JavaScript** e **TypeScript**, bem como iniciativas que envolvam **Power Platform** (Power BI / Power Apps), onde eu possa contribuir ativamente com soluções práticas, inovadoras e eficientes.
 
-## Como me Encontrar
+## 📫 Contato
 
 - 📧 Email: viniciuscamacho12@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-camacho)
 
-## Curiosidades
+## ✨ Curiosidade
 
-- ⚡ *Fato Curioso*: Iniciei minha carreira em funções administrativas, mas me apaixonei por tecnologia e codificação através do aprendizado autodidata!
+- Iniciei minha carreira em áreas administrativas, mas foi na tecnologia que encontrei meu propósito profissional — e sigo evoluindo todos os dias.
